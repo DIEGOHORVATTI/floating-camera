@@ -5,6 +5,8 @@ from PyQt5.QtMultimediaWidgets import *
 import sys 
 
 class MainWindow(QMainWindow): 
+
+  print("Simple camera V0.1")
   
   def __init__(self): 
     super().__init__() 
