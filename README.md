@@ -1,6 +1,5 @@
-# simple_camera_linux_e_windons
-Uma simples camera para linux e windons
-
+# Floating camera
+Uma simples camera para todos os sistemas operacionais
 <img title="img camera"  src="./banner.png">
 
 <pre>
